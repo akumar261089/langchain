@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pydantic
+langchain
+requests
+beautifulsoup4
+langgraph
+langchain-community
+langchain-openai
