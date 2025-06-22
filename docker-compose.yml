@@ -6,7 +6,7 @@ services:
     ports:
       - "8080:8000"
     environment:
-      - AZURE_API_KEY=ff1cd87da4ba4304986e9bf652498906 # Make sure to pass your API key
+      - AZURE_API_KEY= # Make sure to pass your API key
     volumes:
       - .:/app
     restart: unless-stopped
